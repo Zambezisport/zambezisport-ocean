@@ -2,7 +2,8 @@
 
 **English** | [Português](README.pt.md)
 
-Small dependency-free TypeScript utilities for ocean conservation work, from
+Small dependency-free TypeScript utilities for ocean field work and water
+sport — conservation surveys, race-day sea calls — from
 [**Zambezisport**](https://github.com/Zambezisport) —
 [zambezisport.com](https://zambezisport.com).
 

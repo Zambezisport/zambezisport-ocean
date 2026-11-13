@@ -2,8 +2,9 @@
 
 [English](README.md) | **Português**
 
-Pequenos utilitários TypeScript sem dependências para trabalho de conservação
-dos oceanos, da [**Zambezisport**](https://github.com/Zambezisport) —
+Pequenos utilitários TypeScript sem dependências para trabalho de campo no mar
+e desporto náutico — levantamentos de conservação, decisões de corrida —
+da [**Zambezisport**](https://github.com/Zambezisport) —
 [zambezisport.com](https://zambezisport.com).
 
 | ficheiro | o que é |
